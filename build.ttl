@@ -1,0 +1,10 @@
+project "hello_trestle"
+language "cpp"
+output "Build/bin/hello_trestle"
+
+sources [
+    "ExampleProgram/Source/main.cpp"
+]
+
+dependencies [
+]
