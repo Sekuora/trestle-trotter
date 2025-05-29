@@ -1,2 +1,2 @@
 # TrestleTrotter
-A unified system to compile apps natively in any system.
+A unified system to compile apps natively in any system using any language.
